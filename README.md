@@ -7,7 +7,7 @@ This is a solver for a very specific and easy-to-solve CAPTCHAs like the one pro
 ### The idea
 In this example we are going to use the following images.       
 ![alt text](https://github.com/consachapi/skipuns/blob/master/test1.jpeg)
-![](https://github.com/consachapi/skipuns/blob/master/test2.jpeg)
+![alt text](https://github.com/consachapi/skipuns/blob/master/test2.jpeg)
 
 ### Prerequisites
 
@@ -50,7 +50,7 @@ tesseract_cmd = "C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
 
 ### Demo skipuns
 
-![](/demo.jpg?raw=true "Demo")
+![](https://github.com/consachapi/skipuns/blob/master/demo.JPG)
 
 
 ### USAGE 
