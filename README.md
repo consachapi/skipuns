@@ -21,7 +21,7 @@ apt-get install python3
 
 You also require to have Scapy and Shodan modules installed
 ```
-pip install pytesseract
+pip install requests
 ```
 
 ```
