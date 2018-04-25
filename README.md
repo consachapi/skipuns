@@ -2,7 +2,7 @@
 
 * Author: consachapi@gmail.com
 
-This is a solver for a very specific and easy-to-solve CAPTCHAs like the one proposed here.
+This is a solver for a very specific and easy-to-solve CAPTCHAs like the one proposed here, using Tesseract-OCR.
 
 ### The idea
 In this example we are going to use the following images.
@@ -19,7 +19,7 @@ The only thing you need installed is Python 3.x
 apt-get install python3
 ```
 
-You also require to have Scapy and Shodan modules installed
+You also require to have requests and pytesseract modules installed
 ```
 pip install requests
 ```
