@@ -6,8 +6,8 @@ This is a solver for a very specific and easy-to-solve CAPTCHAs like the one pro
 
 ### The idea
 In this example we are going to use the following images.       
-![](/test1.jpg?raw=true "test1")    
-![](/test2.jpg?raw=true "test2")
+![alt text](https://github.com/consachapi/skipuns/blob/master/test1.jpeg)
+![](https://github.com/consachapi/skipuns/blob/master/test2.jpeg)
 
 ### Prerequisites
 
