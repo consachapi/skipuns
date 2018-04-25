@@ -5,8 +5,10 @@
 This is a solver for a very specific and easy-to-solve CAPTCHAs like the one proposed here.
 
 ### The idea
-In this example we are going to use the following images.       
+In this example we are going to use the following images.
+
 ![alt text](https://github.com/consachapi/skipuns/blob/master/test1.jpeg)
+
 ![alt text](https://github.com/consachapi/skipuns/blob/master/test2.jpeg)
 
 ### Prerequisites
@@ -58,7 +60,7 @@ From the shell
 
 ```bash
 git clone https://github.com/consachapi/skipuns.git
-cd Skipuns
+cd skipuns
 $ python skipuns.py -u cod_login   
 
 ```
