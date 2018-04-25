@@ -1,6 +1,6 @@
 # SKIPUNS: CAPTCHA solver in python
 
-* Author: [@](consachapi@gmail.com)
+* Author: consachapi@gmail.com
 
 This is a solver for a very specific and easy-to-solve CAPTCHAs like the one proposed here.
 
@@ -40,7 +40,7 @@ Configure tesseract-oct on pytesseract
 
 Add the directory where the tesseract-OCR binaries are located to the Path variables, probably C:\Program Files\Tesseract-OCR.
 
-Change in pytesseract
+Change in pytesseract.py
 
 ```
 #tesseract_cmd = "tesseract"
@@ -57,8 +57,8 @@ tesseract_cmd = "C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
 From the shell
 
 ```bash
-git clone https://github.com/consachapi/Skipuns.git
+git clone https://github.com/consachapi/skipuns.git
 cd Skipuns
-$ python skipuns.py -u codigo_login   
+$ python skipuns.py -u cod_login   
 
 ```
