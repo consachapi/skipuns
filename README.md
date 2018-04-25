@@ -1,12 +1,12 @@
 # SKIPUNS: CAPTCHA solver in python
 
-* Author: [consachapi@gmail.com]
+* Author: [@](consachapi@gmail.com)
 
 This is a solver for a very specific and easy-to-solve CAPTCHAs like the one proposed here.
 
 ### The idea
 In this example we are going to use the following images.       
-![test1.jpg](/test1.jpg?raw=true "test1")    
+![](/test1.jpg?raw=true "test1")    
 ![](/test2.jpg?raw=true "test2")
 
 ### Prerequisites
@@ -34,13 +34,13 @@ apt-get install tesseract-ocr
 
 Windows
 
-Link download: https://github.com/UB-Mannheim/tesseract/wiki
+Link: https://github.com/UB-Mannheim/tesseract/wiki
 
 Configure tesseract-oct on pytesseract
 
 Add the directory where the tesseract-OCR binaries are located to the Path variables, probably C:\Program Files\Tesseract-OCR.
 
-Change in pytesseract.py
+Change in pytesseract
 
 ```
 #tesseract_cmd = "tesseract"
