@@ -36,7 +36,7 @@ apt-get install tesseract-ocr
 
 Windows
 
-Link: https://github.com/UB-Mannheim/tesseract/wiki
+Download: https://github.com/UB-Mannheim/tesseract/wiki
 
 Configure tesseract-oct on pytesseract
 
