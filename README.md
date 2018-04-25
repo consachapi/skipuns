@@ -28,6 +28,8 @@ pip install requests
 pip install pytesseract
 ```
 
+### Install Tesseract-OCR
+
 Linux
 
 ```
